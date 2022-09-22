@@ -1,0 +1,29 @@
+
+body{
+    background-color:#555;
+}
+
+div.retangulo1 {
+       margin-left: 20%;
+       margin-top:100px; 
+       line-height:0;
+        width:30%;
+        height:300px;
+        border: 25px solid white;
+        }
+        div.retangulo2 {
+            margin-left: 107%;
+            margin-top:-25px; 
+            line-height:0;
+             width:40%;
+             height:300px;
+             border: 25px  solid white;
+             }
+             div.retangulo3 {
+                line-height:0;
+                margin-left: 114%;
+                
+                border-style: solid;
+                 border-color: #211b15;
+                 border-width: 0 75px 183px;
+ }
