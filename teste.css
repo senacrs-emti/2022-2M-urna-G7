@@ -1,18 +1,75 @@
 body{
     background-color:#555;
 }
-.div .urna {
-    width:100px;
-   height: 100%;
+
+
+
+    div#imagem{
+        margin: auto;
+        margin-top: 60px;
+        height: 40px;
+        width: 0%;
+    }
+
+
+
+
+div#teclado{
     
-     border: 25px solid white;
-     }
+    margin-top: -325px;
+    width: 32%;
+    height: 275px;
+    margin-left: 50%;
+    border: 25px  solid white;
+    background-color: #211b15;     
+}
+    
+div#tela{
+        margin: auto;
+        margin-top: 60px;
+        width: 32%;
+        height: 275px;
+        margin-right: 50%;
+        border: 25px  solid white;
+         }
+     
+         .preto1{
+            margin-left:35%;
+            margin-top: 20%;
+            
+            }
+          
+          .preto2{
+            margin-left:35%;
+            margin-top: 4%;
+          }
 
-     div.ola{
-     width:70px;
-     border: 25px solid white;
-     }
+          .preto3{
+            margin-left:35%;
+            margin-top: 4%;
+          }
 
-
-
-
+          .preto4{
+            margin-left:42%;
+            margin-top: 4%;
+          }
+          
+          .branco{
+            margin-left:20%;
+            margin-top:2%;
+            height: 30px;
+          } 
+          .laranja{
+            margin-left:5%;
+            height: 40px;
+            background-color: orange;
+          }
+          .verde{
+            margin-left:5%;
+            height:50px;
+          background-color:green;
+          }
+          
+          .btn.preto.click{
+            background-color: #211b15;
+          }
