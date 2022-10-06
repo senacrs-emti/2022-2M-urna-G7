@@ -2,13 +2,12 @@ body{
     background-color:#555;
 }
 
-
-
-    div#imagem{
+    
+    div#imagem img{
         margin: auto;
-        margin-top: 60px;
-        height: 40px;
-        width: 0%;
+        margin-left: 133%;
+        height: 80px;
+        width: 200px;
     }
 
 
@@ -16,9 +15,9 @@ body{
 
 div#teclado{
     
-    margin-top: -325px;
+    margin-top: -350px;
     width: 32%;
-    height: 275px;
+    height: 300px;
     margin-left: 50%;
     border: 25px  solid white;
     background-color: #211b15;     
@@ -28,34 +27,35 @@ div#tela{
         margin: auto;
         margin-top: 60px;
         width: 32%;
-        height: 275px;
+        height: 300px;
         margin-right: 50%;
         border: 25px  solid white;
          }
      
          .preto1{
-            margin-left:35%;
-            margin-top: 20%;
+            margin-left:27%;
+            margin-top: 19%;
             
             }
           
           .preto2{
-            margin-left:35%;
+            margin-left:27%;
             margin-top: 4%;
           }
 
           .preto3{
-            margin-left:35%;
+            margin-left:27%;
             margin-top: 4%;
           }
 
           .preto4{
-            margin-left:42%;
+            margin-left:37%;
             margin-top: 4%;
+            
           }
           
           .branco{
-            margin-left:20%;
+            margin-left:16%;
             margin-top:2%;
             height: 30px;
           } 
@@ -66,10 +66,13 @@ div#tela{
           }
           .verde{
             margin-left:5%;
-            height:50px;
+            height:40px;
+            margin-top:-1%;
           background-color:green;
           }
           
           .btn.preto.click{
             background-color: #211b15;
+            width:40px;
+            height: 30px;
           }
