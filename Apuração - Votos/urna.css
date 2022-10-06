@@ -1,0 +1,56 @@
+.candidato1{
+    background-color: green;
+    height: 30px;
+    width: 622px;
+}
+.candidato2 {
+    background-color: red;
+    height: 30px; 
+    width: 496px;
+}
+.candidato3{
+    background-color: blue;
+    height: 30px;
+    width: 312px;
+}
+.candidato4{
+    background-color: yellow;
+    height: 30px;
+    width: 200px;
+    }
+.candidato5{
+background-color: goldenrod;
+height: 30px;
+width: 100px;
+}
+.candidato6{
+    background-color:firebrick;
+    height: 30px;
+    width: 80px;
+}
+.candidato7{
+background-color: aquamarine;
+height: 30px;
+width: 60px;
+}
+
+.fonte1{
+    font-family: sans-serif;
+    background-color: cyan;
+    height: 18px;
+    width: 230px;
+}
+.fonte2{
+    font-family: sans-serif;
+    background-color: cyan;
+    height: 18px;
+    width: 170px;
+}
+.fonte3{
+    font-family: sans-serif;
+}
+img{
+    height: 110px;
+    width: 100px;
+    float: right;
+}
