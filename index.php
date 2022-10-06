@@ -13,11 +13,12 @@
 
 <body>
     <div id="urna">
+    
+</div>
+    <div id="tela">
     <div id="imagem" id="imagem">
     <img src="./img/logo-justica-eleitora-senac.png" alt="">
 </div>
-    <div id="tela">
-
         </div>
         <div id="teclado">
 <div class="preto1">    
@@ -42,8 +43,8 @@
 <div>
 
 <button class="branco click">branco</button>
-<button class="laranja click"onclick="corrigo()">corrigir</button>
-<button class="verde" onclick="votar()">confirmar</button>
+<button class="laranja click"onclick="somConfirma()">corrigir</button>
+<button class="verde" onclick="somFim()">confirmar</button>
 
 </div>
 </div>

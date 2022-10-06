@@ -5,9 +5,10 @@ body{
     
     div#imagem img{
         margin: auto;
-        margin-left: 133%;
+        margin-left: 547px;
         height: 80px;
         width: 200px;
+        margin-top: 0%;
     }
 
 
